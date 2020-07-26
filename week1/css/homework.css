@@ -1,0 +1,40 @@
+/* update header, headings, section, links and images */
+
+header{
+    /* change background color */
+    background-color: #00FF00; 
+}
+
+    /* for heading */
+
+    /*change the font color*/
+    /* heading display in caps */
+
+h1{
+    color: #0f0f0f;
+    /* font capital */
+    
+    /* center text */
+    text-align: center;
+}
+
+h2{
+    color: #0fff0f;
+    /* font capital*/
+    
+}
+
+/* section background color change */
+section{
+    background-color: #ffff00;
+}
+/* Links */
+
+link{
+    color: #ff6604;
+    background-color: #00f0f0;
+}
+/* change background color and font color */
+/* center text *Note: not needed */
+
+/* remove the pictures */
