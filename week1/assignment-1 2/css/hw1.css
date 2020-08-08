@@ -1,0 +1,26 @@
+header{
+  background-color: #00ff6f
+}
+
+h1{
+    color: #ffff0f;
+    
+    text-align: center;
+}
+
+h2{
+    color: #0015ff;
+}
+
+section{
+    background-color: #f005;
+}
+
+a:link{
+    color: #f00ff0;
+    background-color: #f0f0ff;
+}
+
+img{
+  display: none;
+}
